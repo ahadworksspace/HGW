@@ -1,0 +1,572 @@
+[
+  {
+    "id": 1,
+    "name": "Anion Oxygen Device",
+    "category": "Devices",
+    "price_pkr": 36000,
+    "image": "https://greenworld.pk/uploads/thumbs/d8229dd4c8bab4384cf04b82bcc3e978.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 2,
+    "name": "Blood Circulatory Massager",
+    "category": "Devices",
+    "price_pkr": 49500,
+    "image": "https://greenworld.pk/uploads/thumbs/c7c17fa075e3542f4cdb41368fe5c0ef.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 3,
+    "name": "Crazy Fit Massager",
+    "category": "Devices",
+    "price_pkr": 80500,
+    "image": "",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 4,
+    "name": "Food Massage Chair",
+    "category": "Devices",
+    "price_pkr": 138000,
+    "image": "https://greenworld.pk/uploads/thumbs/3341a9844a64a242d2040a403de6df3e.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 5,
+    "name": "Ozone Machine",
+    "category": "Devices",
+    "price_pkr": 23000,
+    "image": "https://greenworld.pk/uploads/thumbs/93cfd748639d2cc50d33f5fed22a2519.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 6,
+    "name": "Vibration Slimming Belt",
+    "category": "Devices",
+    "price_pkr": 28800,
+    "image": "https://greenworld.pk/uploads/thumbs/01abc6dcf41cc189acd8de5a9933d0e8.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 7,
+    "name": "Hand Point Diagnostic & Treatment Set",
+    "category": "Devices",
+    "price_pkr": 144000,
+    "image": "https://greenworld.pk/uploads/thumbs/0c10fca01d5f855d130091bdf654b2ad.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 8,
+    "name": "Heart Protection & Pressure Lowering Instrument",
+    "category": "Devices",
+    "price_pkr": 8625,
+    "image": "https://greenworld.pk/uploads/thumbs/f76f1d0d6e60d333fcc3a7f2a55059d5.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 9,
+    "name": "Quantum Resonance Magnetic Analyzer",
+    "category": "Devices",
+    "price_pkr": 62400,
+    "image": "https://greenworld.pk/uploads/thumbs/fdd6e2cc6cf3a36df036115979f45e43.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 10,
+    "name": "Calcium Capsule",
+    "category": "Nutritional Supplements",
+    "price_pkr": 6000,
+    "image": "https://greenworld.pk/uploads/thumbs/49b7cc3feaaa344a23903610c7f2421b.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 11,
+    "name": "Calcium Tablet for Children",
+    "category": "Nutritional Supplements",
+    "price_pkr": 3120,
+    "image": "https://greenworld.pk/uploads/thumbs/b4e0029f12e0d1ab4f5fbc9d7aca0729.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 12,
+    "name": "Chitosan Capsule",
+    "category": "Nutritional Supplements",
+    "price_pkr": 4800,
+    "image": "https://greenworld.pk/uploads/thumbs/2e45d5accf610855c547467f11e5194f.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 13,
+    "name": "Compound Marrow Powder",
+    "category": "Nutritional Supplements",
+    "price_pkr": 6480,
+    "image": "",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 14,
+    "name": "Cordyceps Plus Capsule",
+    "category": "Nutritional Supplements",
+    "price_pkr": 6000,
+    "image": "https://greenworld.pk/uploads/thumbs/75fecccb40edee0b053a5e1a387bc3bb.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 15,
+    "name": "Deep Sea Fish Oil",
+    "category": "Nutritional Supplements",
+    "price_pkr": 7200,
+    "image": "https://greenworld.pk/uploads/thumbs/faee288be2f43c9a7582d348480e8a8b.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 16,
+    "name": "Lecithin Capsule",
+    "category": "Nutritional Supplements",
+    "price_pkr": 7200,
+    "image": "",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 17,
+    "name": "Multi-Vitamins Tablet for Adults",
+    "category": "Nutritional Supplements",
+    "price_pkr": 5760,
+    "image": "https://greenworld.pk/uploads/thumbs/c18d607820411af7801f4f68bcfbe247.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 18,
+    "name": "Multi-Vitamins Tablet for Children",
+    "category": "Nutritional Supplements",
+    "price_pkr": 3120,
+    "image": "https://greenworld.pk/uploads/thumbs/a356ade75493253714e6d4b1f8728af8.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 19,
+    "name": "Protein Powder",
+    "category": "Nutritional Supplements",
+    "price_pkr": 9000,
+    "image": "https://greenworld.pk/uploads/thumbs/cc5ef08001e8e98b15aa860e944bea7f.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 20,
+    "name": "Soy Power Capsule",
+    "category": "Nutritional Supplements",
+    "price_pkr": 7200,
+    "image": "https://greenworld.pk/uploads/thumbs/811c08bf51ead6c1a2e6dbf4c98e4e62.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 21,
+    "name": "Spirulina Plus Capsule",
+    "category": "Nutritional Supplements",
+    "price_pkr": 4320,
+    "image": "https://greenworld.pk/uploads/thumbs/eddd6f780067b331072d9bc8d3986701.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 22,
+    "name": "Zinc Tablet for Adults",
+    "category": "Nutritional Supplements",
+    "price_pkr": 5280,
+    "image": "https://greenworld.pk/uploads/thumbs/c6381e673866513a0441fc5b308f4420.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 23,
+    "name": "Zinc Tablet for Children",
+    "category": "Nutritional Supplements",
+    "price_pkr": 2700,
+    "image": "https://greenworld.pk/uploads/thumbs/8187e073336dfaea56201e52dbf7f1e5.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 24,
+    "name": "Vitamin D3 Capsule",
+    "category": "Nutritional Supplements",
+    "price_pkr": 4800,
+    "image": "https://greenworld.pk/uploads/thumbs/d38696bf97c582f411e7ec2f9ee326db.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 25,
+    "name": "Se Tablet",
+    "category": "Nutritional Supplements",
+    "price_pkr": 4320,
+    "image": "https://greenworld.pk/uploads/thumbs/f7700502c2118a0d1284aae981cfd8a5.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 26,
+    "name": "Eye Care Softgel",
+    "category": "General Health",
+    "price_pkr": 4500,
+    "image": "https://greenworld.pk/uploads/thumbs/762ff2c8a6817c26191b2d3eb4586155.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 27,
+    "name": "Compound Co-Q10 Capsule",
+    "category": "General Health",
+    "price_pkr": 6000,
+    "image": "",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 28,
+    "name": "Gastric Health Tablet",
+    "category": "General Health",
+    "price_pkr": 4320,
+    "image": "https://greenworld.pk/uploads/thumbs/418d8865b8ca97f8845eddb4a4e087d5.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 29,
+    "name": "Ginkgo Biloba Capsule",
+    "category": "General Health",
+    "price_pkr": 6000,
+    "image": "https://greenworld.pk/uploads/thumbs/6b470cc5dac43f7d8131d29d9fe33080.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 30,
+    "name": "Ginseng RHS Capsule",
+    "category": "General Health",
+    "price_pkr": 5280,
+    "image": "https://greenworld.pk/uploads/thumbs/78fc8898e779e09aba9365a038bf6bca.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 31,
+    "name": "Glucoblock Capsule",
+    "category": "General Health",
+    "price_pkr": 4320,
+    "image": "",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": "Price differs on its individual product page — confirm before payment."
+  },
+  {
+    "id": 32,
+    "name": "Grape Seed Extract Plus Capsule",
+    "category": "General Health",
+    "price_pkr": 6000,
+    "image": "",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 33,
+    "name": "HepatSure Capsule",
+    "category": "General Health",
+    "price_pkr": 6720,
+    "image": "https://greenworld.pk/uploads/thumbs/9393396384506214d9de7dacb0f35d29.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 34,
+    "name": "Joint Health Plus Capsule",
+    "category": "General Health",
+    "price_pkr": 6000,
+    "image": "https://greenworld.pk/uploads/thumbs/33429071478710bf25c62316d5bb5847.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 35,
+    "name": "Cardio Power Capsule",
+    "category": "General Health",
+    "price_pkr": 6000,
+    "image": "",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 36,
+    "name": "Ganoderma Plus Capsule",
+    "category": "General Health",
+    "price_pkr": 7200,
+    "image": "https://greenworld.pk/uploads/thumbs/4453f304d462a1fbbc7ede1580818f4d.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 37,
+    "name": "ProstaSure Capsule",
+    "category": "General Health",
+    "price_pkr": 6000,
+    "image": "",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": "Price differs on its individual product page — confirm before payment."
+  },
+  {
+    "id": 38,
+    "name": "Arthro Power Capsule",
+    "category": "General Health",
+    "price_pkr": 5250,
+    "image": "https://greenworld.pk/uploads/thumbs/295313d13de2708ec5575b97550ca2d0.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 39,
+    "name": "Balsam Pear Tea",
+    "category": "Teas & Drinks",
+    "price_pkr": 3600,
+    "image": "https://greenworld.pk/uploads/thumbs/7ef3edc412358dccae534337775ead87.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 40,
+    "name": "Blueberry Tea",
+    "category": "Teas & Drinks",
+    "price_pkr": 2500,
+    "image": "https://greenworld.pk/uploads/thumbs/5ec0b21a6090fb17004a133f41f2a4ad.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 41,
+    "name": "Clear Lung Tea",
+    "category": "Teas & Drinks",
+    "price_pkr": 2880,
+    "image": "",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 42,
+    "name": "Intestine Cleansing Tea",
+    "category": "Teas & Drinks",
+    "price_pkr": 2500,
+    "image": "https://greenworld.pk/uploads/thumbs/88d981b8c3c320b2332b01f6da8fcbaf.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 43,
+    "name": "Kuding Plus Tea",
+    "category": "Teas & Drinks",
+    "price_pkr": 2880,
+    "image": "https://greenworld.pk/uploads/thumbs/93c3a4b8f6923f6ac364d20b29bab150.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 44,
+    "name": "Lipid Care Tea",
+    "category": "Teas & Drinks",
+    "price_pkr": 2880,
+    "image": "",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 45,
+    "name": "Pro Slim Tea",
+    "category": "Teas & Drinks",
+    "price_pkr": 2880,
+    "image": "https://greenworld.pk/uploads/thumbs/b8fd91220440313f46ffa9d7a6f59048.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 46,
+    "name": "Slimming Capsules",
+    "category": "Teas & Drinks",
+    "price_pkr": 6000,
+    "image": "https://greenworld.pk/uploads/thumbs/8341a8a4a5797b3ff9b8f35aad9a3a7e.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 47,
+    "name": "Ganoderma Soluble Coffee",
+    "category": "Teas & Drinks",
+    "price_pkr": 2250,
+    "image": "https://greenworld.pk/uploads/thumbs/e5c09b8638d3ebe585424f91c7f616a4.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": "Listed on greenworld.pk/shop as Ganoderma Soluble Coffee."
+  },
+  {
+    "id": 48,
+    "name": "Blueberry Anti-Aging Capsule",
+    "category": "Skin & Personal Care",
+    "price_pkr": 4800,
+    "image": "https://greenworld.pk/uploads/thumbs/c6e25707bebe1a8c4ed271b944d6e177.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 49,
+    "name": "Blueberry Juice High VC",
+    "category": "Skin & Personal Care",
+    "price_pkr": 4800,
+    "image": "https://greenworld.pk/uploads/thumbs/007a908a569829d7d959b8276281ca16.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 50,
+    "name": "Herbs Toothpaste",
+    "category": "Skin & Personal Care",
+    "price_pkr": 1500,
+    "image": "https://greenworld.pk/uploads/thumbs/1fc1f61c0c044a4d53529c9c3b64f8d5.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 51,
+    "name": "Olive Soap",
+    "category": "Skin & Personal Care",
+    "price_pkr": 720,
+    "image": "https://greenworld.pk/uploads/thumbs/0a774669539c6c34013e70894e864af6.jpg",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": "A second shop listing shows Rs 600 — confirm before payment."
+  },
+  {
+    "id": 52,
+    "name": "Tourmaline Soap",
+    "category": "Skin & Personal Care",
+    "price_pkr": 720,
+    "image": "https://greenworld.pk/uploads/thumbs/6f7fd8b6802be2e3c493f9b90651a414.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 53,
+    "name": "Tourmaline Bracelet No. 5",
+    "category": "Tourmaline Accessories",
+    "price_pkr": 1680,
+    "image": "https://greenworld.pk/uploads/thumbs/58b42e44e9b44f6f188682ae30643d83.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 54,
+    "name": "Tourmaline Necklace No. 16",
+    "category": "Tourmaline Accessories",
+    "price_pkr": 3360,
+    "image": "https://greenworld.pk/uploads/thumbs/bf941aeb2df8e9269b3efa816463101d.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 55,
+    "name": "Tourmaline Knee Protector",
+    "category": "Tourmaline Accessories",
+    "price_pkr": 8400,
+    "image": "https://greenworld.pk/uploads/thumbs/2a7e57f63d33128999f7fb882799907e.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 56,
+    "name": "Tourmaline Waist Protector Black",
+    "category": "Tourmaline Accessories",
+    "price_pkr": 9600,
+    "image": "https://greenworld.pk/uploads/thumbs/bb55d94e08bb5a2e174c3765ce737d6f.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  },
+  {
+    "id": 57,
+    "name": "Tourmaline Magnetic Eyeshade",
+    "category": "Tourmaline Accessories",
+    "price_pkr": 1680,
+    "image": "https://greenworld.pk/uploads/thumbs/c0d32dabac594a3122783e46ce0af58a.png",
+    "source": "greenworld.pk/shop",
+    "price_checked": "2026-10-26",
+    "price_note": ""
+  }
+]

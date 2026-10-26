@@ -1,0 +1,28 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Products | Health Green World Bahawalpur</title><meta name="description" content="Search and filter Health Green World products by category, with listed PKR prices.">
+<link rel="stylesheet" href="assets/css/style.css"></head><body><header><div class="nav">
+<a class="logo" href="index.html">🌿 Health <span>Green World</span> <small>Bahawalpur</small></a>
+<button class="burger" aria-label="Menu">Menu</button>
+<nav id="mainnav"><a href="index.html">Home</a><a href="about.html">About Us</a><a href="products.html">Products</a><a href="categories.html">Categories</a><a href="careers.html">Careers</a><a href="contact.html">Contact Us</a></nav></div></header>
+<main><h1>Products</h1><p>Search by name or filter by category. Prices are in PKR, as listed on greenworld.pk/shop on 26 Oct 2026. The branch confirms the final price before any order is accepted.</p>
+  <label>Search products</label><input id="search" placeholder="e.g. Calcium, Tea, Tourmaline">
+  <label>Category</label><select id="cat"></select><p id="count"></p><div class="grid" id="grid"></div>
+  <section id="order-form-section"><h2>Product Order / Inquiry</h2>
+<p class="notice"><strong>Important:</strong> Submitting this form is a <strong>request only</strong>. It is <strong>not a confirmed order</strong> until the business verifies availability and price and contacts you.</p>
+<div id="order-form-fallback"></div><p id="order-form-msg"></p>
+<form id="order-form" class="form" novalidate>
+<label>Full name *</label><input name="full_name" required>
+<label>Phone / WhatsApp number *</label><input name="phone" required pattern="[0-9+\- ]{7,20}" placeholder="03XX-XXXXXXX">
+<label>Email (optional)</label><input name="email" type="email">
+<label>Product name *</label><input name="product_name" id="product_name" required>
+<label>Quantity *</label><input name="quantity" type="number" min="1" max="100" value="1" required>
+<label>Delivery city</label><input name="delivery_city" placeholder="e.g. Bahawalpur">
+<label>Delivery address (if ordering)</label><textarea name="delivery_address" rows="3"></textarea>
+<label>Order / inquiry message</label><textarea name="message" rows="4"></textarea>
+<input type="text" name="website" style="display:none" tabindex="-1" autocomplete="off">
+<label><input type="checkbox" name="consent" required style="width:auto"> I consent to the business contacting me about this request and storing my details for that purpose only. *</label>
+<button class="btn" type="submit">Submit Request</button></form>
+<p>Privacy: submissions are not displayed publicly. They are stored only in the owner's private Google Sheet (after setup) and are not shared via public links.</p></section></main><footer><p>Health Green World — Bahawalpur, Pakistan · Phone: <a data-hgw="phone" href="#"></a> · Email: <a data-hgw="email" href="#"></a></p>
+<p>Products are food supplements / personal-care items as listed on greenworld.pk. This site makes no medical claims and does not replace professional medical advice. Prices checked 26 Oct 2026 on greenworld.pk/shop — confirm final price with the branch.</p>
+<p>Sources: <a href="https://greenworld.pk/">greenworld.pk</a> · <a href="https://greenworld.pk/shop">greenworld.pk/shop</a> · <a href="https://www.hgwmundo.com/en/products.html">hgwmundo.com/en/products.html</a></p></footer>
+<script src="assets/js/config.js"></script><script src="assets/js/main.js"></script><script src="assets/js/products.js"></script><script src="assets/js/forms.js"></script></body></html>

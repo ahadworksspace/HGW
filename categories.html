@@ -1,0 +1,11 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Product Categories | Health Green World Bahawalpur</title><meta name="description" content="Health Green World product categories: nutritional supplements, general health, teas, skin care, devices and tourmaline.">
+<link rel="stylesheet" href="assets/css/style.css"></head><body><header><div class="nav">
+<a class="logo" href="index.html">🌿 Health <span>Green World</span> <small>Bahawalpur</small></a>
+<button class="burger" aria-label="Menu">Menu</button>
+<nav id="mainnav"><a href="index.html">Home</a><a href="about.html">About Us</a><a href="products.html">Products</a><a href="categories.html">Categories</a><a href="careers.html">Careers</a><a href="contact.html">Contact Us</a></nav></div></header>
+<main><h1>Product Categories</h1><p>Categories follow the groupings used on greenworld.pk (Nutritional Supplement, General Health, Skin &amp; Beauty, Weight Loss / Teas) and the HGW international catalogue (Functional Foods &amp; Drinks, Cosmetics, Accessories).</p><div class="grid" id="catgrid"></div>
+  <script>fetch('data/products.json').then(r=>r.json()).then(all=>{const m={};all.forEach(p=>m[p.category]=(m[p.category]||0)+1);document.getElementById('catgrid').innerHTML=Object.entries(m).map(([c,n])=>`<div class="card"><div class="pad"><h3>${c}</h3><p>${n} products listed</p><a href="products.html">Browse ${c} →</a></div></div>`).join('')})</script></main><footer><p>Health Green World — Bahawalpur, Pakistan · Phone: <a data-hgw="phone" href="#"></a> · Email: <a data-hgw="email" href="#"></a></p>
+<p>Products are food supplements / personal-care items as listed on greenworld.pk. This site makes no medical claims and does not replace professional medical advice. Prices checked 26 Oct 2026 on greenworld.pk/shop — confirm final price with the branch.</p>
+<p>Sources: <a href="https://greenworld.pk/">greenworld.pk</a> · <a href="https://greenworld.pk/shop">greenworld.pk/shop</a> · <a href="https://www.hgwmundo.com/en/products.html">hgwmundo.com/en/products.html</a></p></footer>
+<script src="assets/js/config.js"></script><script src="assets/js/main.js"></script></body></html>
