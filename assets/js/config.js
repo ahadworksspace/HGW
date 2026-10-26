@@ -17,7 +17,10 @@ window.HGW_CONFIG = {
   currency: "PKR",
   priceCheckedDate: "2026-10-26",
   priceSource: "https://greenworld.pk/shop",
-  appsScriptUrl: "",
+  // Apps Script Web App deployed by the owner on 2026-10-26 (verified: GET returns {"ok":true,"service":"HGW submissions"}).
+  // Notification email is set in the script's Script Properties (NOTIFY_EMAIL), not here.
+  // Google Form URLs not yet provided by the owner (2026-10-26) — left empty until then.
+  appsScriptUrl: "https://script.google.com/macros/s/AKfycbyhE52-WRhq2zETXfQHcq2FWW0ji22xn3F0P4Cp0KrMKfIWIPcasO7M3moch0dmSKyzag/exec",
   orderFormUrl: "",
   careerFormUrl: "",
   mapsUrl: ""
